@@ -9,7 +9,7 @@
 
 ### Raw file
 
-[3489695_phil.csv](https://github.com/GBlanch/Statistical-Methods/blob/main/1.Time-Series%20Cross-Validation/0.data/3489695_phil.csv)
+[3489695_phil_weather.csv](https://raw.githubusercontent.com/GBlanch/Statistical-Methods/main/1.Time-Series%20Cross-Validation/0.data/3489695_phil_weather.csv)
 
 ### Script
 
