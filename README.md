@@ -2,7 +2,7 @@
 In this repo, I delve into some of the core concepts of Statistics in the course _"Advanced Statistics and Applications in Engineering"_  I took while pursuing my BSc. 
 
 
-+ [Simple Linear Regression](https://github.com/GBlanch/Statistical-Methods/tree/main/0.Simple%20Linear%20Regression)
++ [Simple Linear Regression](https://github.com/GBlanch/Statistical-Methods/blob/main/0.Simple%20Linear%20Regression/Cost-Loss%20Funct.%20and%20BGD.ipynb)
 + [Time-Series Cross-Validation](https://github.com/GBlanch/Statistical-Methods/tree/main/1.Time-Series%20Cross-Validation)
 
 
