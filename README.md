@@ -1,5 +1,5 @@
 # Statistical-Methods
-In this repo, I delve into some of the core concepts of Statistics in the course _"Advanced Statistics and Applications in Engineering"_  I took while pursuing my BSc. 
+In this repo, I delve into some of the core concepts of Statistics in the course _"Advanced Statistics and Applications in Engineering"_  I took while pursuing my [BSc](https://github.com/GBlanch/Portfolio/blob/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report/readme.md). 
 
 
 + [Simple Linear Regression](https://github.com/GBlanch/Statistical-Methods/blob/main/0.Simple%20Linear%20Regression/Cost-Loss%20Funct.%20and%20BGD.ipynb)
