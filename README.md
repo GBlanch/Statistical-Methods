@@ -1,4 +1,4 @@
-# Statistical-Methods
+# Statistical Methods
 
 In this repo, I delve into some of the core concepts of **Statistics** I took in the courses _"Statistics"_ and _"Advanced Statistics and Applications in Engineering"_ during my [BSc](https://github.com/GBlanch/Portfolio/blob/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report/readme.md). 
 
