@@ -8,4 +8,4 @@ In this repo, I delve into some of the core concepts of **Statistics** I took in
 
 
 
-For the curious, you could also take a peek to some of the methodologies I reviewed on **[Multivariable Calculus](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main#potential-flow)** during that time.
+For the curious, you could also take a peek at some of the methodologies I reviewed on **[Multivariable Calculus](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main#potential-flow)** during that time.
