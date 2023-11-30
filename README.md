@@ -1,6 +1,6 @@
 # Statistical Methods
 
-In this repo, I delve into some of the core concepts of Statistics and Probability I took during my [Bachelors of Science in Mechanical Engineering](https://github.com/GBlanch/Portfolio/blob/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report/readme.md). Without that essential knowledge, it wo0uld have been tougher to catch up with the most common methodologies utilized in Data Science and Machine Learning.
+In this repo, I delve into some of the core concepts of Statistics and Probability I took during my [Bachelors of Science in Mechanical Engineering](https://github.com/GBlanch/Portfolio/blob/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report/readme.md). Without that essential knowledge, it would have been tougher to catch up with the most common methodologies utilized in Data Science and Machine Learning.
 
  + [BGD for a Simple Linear Regression](https://github.com/GBlanch/Statistical-Methods/blob/main/0.Simple%20Linear%20Regression/Cost-Loss%20Funct.%20and%20BGD.ipynb)
  + [Time-Series Cross-Validation for Ridge Regress. Models](https://github.com/GBlanch/Time-Series-Cross-Validation-for-a-RR-model/blob/main/TSCV%20for%20a%20RR%20model.ipynb)
