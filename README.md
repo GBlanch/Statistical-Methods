@@ -5,6 +5,7 @@ In this repo, I delve into some of the core concepts of Statistics and Probabili
  + [BGD for a Simple Linear Regression](https://github.com/GBlanch/Statistical-Methods/blob/main/0.Simple%20Linear%20Regression/Cost-Loss%20Funct.%20and%20BGD.ipynb)
  + [Time-Series Cross-Validation for Ridge Regress. Models](https://github.com/GBlanch/Time-Series-Cross-Validation-for-a-RR-model/blob/main/TSCV%20for%20a%20RR%20model.ipynb)
  + [Expectation-Maximization algorithm for Gaussian Mixture Models ](https://github.com/GBlanch/Statistical-Methods/blob/main/2.Expect.%E2%80%93Max.%20algorithm%20for%20GMMs/EM%20for%20GMM_2.ipynb)
+ + [Statistical Hypothesis Testing for an A/B Test]()
 
 
 
