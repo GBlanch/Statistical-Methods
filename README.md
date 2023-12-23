@@ -1,6 +1,6 @@
 # Statistical Methods
 
-<img align="center" width="700" height="500" src="https://github.com/GBlanch/Statistical-Methods/blob/main/assets/PyCon%202017%20-%20Eric%20J%20Ma%20Bayesian%20Statistical%20Analysis%20with%20Python.png"> 
+<img align="center" width="500" height="350" src="https://github.com/GBlanch/Statistical-Methods/blob/main/assets/PyCon%202017%20-%20Eric%20J%20Ma%20Bayesian%20Statistical%20Analysis%20with%20Python.png"> 
 
 
 In this repo, I delve into some of the core concepts of Statistics and Probability I took during my [Bachelors of Science in Mechanical Engineering](https://github.com/GBlanch/Portfolio/blob/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report/readme.md). Without that essential knowledge, it would have been tougher to catch up with the most common methodologies utilized in Data Science and Machine Learning.
