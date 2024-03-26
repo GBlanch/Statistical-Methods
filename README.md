@@ -3,6 +3,7 @@
 
 <p align="center">
 <img width="500" height="350" src="https://github.com/GBlanch/Statistical-Methods/blob/main/assets/PyCon%202017%20-%20Eric%20J%20Ma%20Bayesian%20Statistical%20Analysis%20with%20Python.png"> 
+ 
 <br>
 
 
