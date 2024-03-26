@@ -21,5 +21,5 @@ In this repo, I delve into some of the core concepts of Statistics and Probabili
 For the curious, you could also take a peek at some of the methodologies I reviewed on **[Multivariable Calculus](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main#potential-flow)** during that time.
 
 <br>
-
+---
 (The image of Bayes rule neon sign was taken from Eric Ma's _Pycon 2017_ lecture in Portland, OR, US)
